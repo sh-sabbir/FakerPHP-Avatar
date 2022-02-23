@@ -1,0 +1,45 @@
+language: php
+
+before_script:
+  - composer self-update
+  - composer install --prefer-source --no-interaction --dev
+
+script: ./vendor/bin/phpunit
+
+jobs:
+  include:
+    - os: linux
+      dist: focal
+      php: nightly
+    - os: linux
+      dist: focal
+      php: 8.0
+    - os: linux
+      dist: focal
+      php: 7.4
+    - os: linux
+      dist: bionic
+      php: 7.3
+    - os: linux
+      dist: bionic
+      php: 7.2
+    - os: linux
+      dist: bionic
+      php: 7.1
+      before_script:
+        - composer require --dev phpunit/phpunit ^7
+    - os: linux
+      dist: xenial
+      php: 7.0
+    - os: linux
+      dist: xenial
+      php: 5.6
+    - os: linux
+      dist: trusty
+      php: 5.5
+    - os: linux
+      dist: trusty
+      php: 5.4
+
+notifications:
+  email: false
