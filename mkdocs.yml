@@ -1,0 +1,73 @@
+site_name: FakerPHP Avatar
+site_title: FakerPHP Avatar by Sabbir
+site_description: Documentation for FakerPHP Avatar
+
+repo_name: sh-sabbir/FakerPHP-Avatar
+repo_url: https://github.com/sh-sabbir/FakerPHP-Avatar
+
+theme:
+  name: material
+  custom_dir: overrides
+  font:
+    text: 'Nunito'
+    code: 'Fira Code'
+  palette:
+    - scheme: default
+      primary: teal
+      accent: teal
+      media: "(prefers-color-scheme: light)"
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue grey
+      accent: light blue
+      media: "(prefers-color-scheme: dark)"
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  favicon: images/favicon.ico
+  logo: images/logo.svg
+  icon:
+    repo: fontawesome/brands/github
+  language: en
+  features:
+    - navigation.instant
+
+extra:
+  manifest: manifest.webmanifest
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/sh-sabbir/FakerPHP-Avatar
+      name: FakerPHP-Avatar repository
+
+plugins:
+  - search: { }
+
+nav:
+  - index.md
+  - avatar-styles.md
+  - options.md
+  - examples.md
+
+markdown_extensions:
+  - attr_list: { }
+  - admonition: { }
+  - meta: { }
+  - toc:
+      permalink: '#'
+  - pymdownx.details: { }
+  - pymdownx.highlight:
+      use_pygments: false
+  - pymdownx.superfences: { }
+  - pymdownx.keys: { }
+  - pymdownx.tabbed:
+      alternate_style: true 
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.4.0/highlight.min.js
+  - javascripts/highlight.js
+
+# Themes can be found here: <https://github.com/highlightjs/highlight.js/tree/master/src/styles>
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.4.0/styles/atom-one-dark-reasonable.min.css
