@@ -1,3 +1,5 @@
+![Social card of FakerPHP-Avatar](/assets/socialcard.png)
+
 # FakerPHP Avatar
 
 [![Packagist Downloads](https://img.shields.io/packagist/dt/sh-sabbir/faker-php-avatar?style=for-the-badge)](https://packagist.org/packages/sh-sabbir/faker-php-avatar) ![GitHub file size in bytes](https://img.shields.io/github/size/sh-sabbir/FakerPHP-Avatar/AvatarProvider.php?style=for-the-badge) [![GitHub](https://img.shields.io/github/license/sh-sabbir/FakerPHP-Avatar?style=for-the-badge)](https://github.com/sh-sabbir/FakerPHP-Avatar/blob/master/LICENSE)
@@ -27,10 +29,12 @@ $faker = Faker\Factory::create();
 $faker->addProvider(new Sabbir\Faker\AvatarProvider($faker));
 ```
 
+
 #### Default settings
 ```php
 $faker->avatarUrl($style = "adventurer", $size = null, $slug = null, $bg = null, $scale = null, $flip = null);
 ```
+
 
 #### Generate Avatar URL
 
@@ -88,6 +92,7 @@ Check [documentation](https://sh-sabbir.github/FakerPHP-Avatar) for more complex
 | Pixel Art Neutral    	| pixel-art-neutral	    |
 
 
+
 ### All Settings and Default Values
 
 | Parameter 	| Type 	                   | Default 	| Available 	|
@@ -99,4 +104,7 @@ Check [documentation](https://sh-sabbir.github/FakerPHP-Avatar) for more complex
 | $scale        | `integer`     	       | `null`    	| `0` to higest integer you can imagine but I suggest you not to imagine sky high 😉 |
 | $flip         | `boolean`    	           | `null`    	| It accepts `0` or `1` where `0 is false` & `1 is true`          	|
 
-$size = null, $slug = null, $bg = null, $scale = null, $scale = null
+
+## License
+
+Faker is released under the MIT License. See [`LICENSE`](LICENSE) for details.
