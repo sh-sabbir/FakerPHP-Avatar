@@ -2,7 +2,7 @@ name: ci
 on:
   push:
     branches:
-      - main
+      - gh-pages
 jobs:
   deploy:
     runs-on: ubuntu-latest
