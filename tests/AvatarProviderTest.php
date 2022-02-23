@@ -11,17 +11,17 @@ use PHPUnit\Framework\TestCase;
 class AvatarProviderTest extends TestCase
 {
     /**
-     * @covers ::imageUrl
-     * @dataProvider imageUrlDataProvider
+     * @covers ::avatarUrl
+     * @dataProvider avatarUrlDataProvider
      */
-    public function testImageUrl($expected, $style = 'adventurer', $size = null, $slug = null, $bg = null, $scale = null, $flip = null)
+    public function testAvatarUrl($expected, $style = 'adventurer', $size = null, $slug = null, $bg = null, $scale = null, $flip = null)
     {
-        $url = AvatarProvider::imageUrl($style, $size, $slug, $bg, $scale, $flip);
+        $url = AvatarProvider::avatarUrl($style, $size, $slug, $bg, $scale, $flip);
 
         $this->assertEquals("https://avatars.dicebear.com/api/".$expected, $url);
     }
 
-    public function imageUrlDataProvider()
+    public function avatarUrlDataProvider()
     {
         return [
             [
