@@ -20,7 +20,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Adventurer Neutral
 
-![Adventurer Neutral](/images/preview/adventurer-neutral.png){ loading=lazy }
+![Adventurer Neutral](images/preview/adventurer-neutral.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -34,7 +34,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Avataaars
 
-![Avataaars](/images/preview/avataaars.png){ loading=lazy }
+![Avataaars](images/preview/avataaars.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -49,7 +49,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Big Ears
 
-![Big Ears](/images/preview/big-ears.png){ loading=lazy }
+![Big Ears](images/preview/big-ears.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -64,7 +64,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Big Ears Neutral
 
-![Big Ears Neutral](/images/preview/big-ears-neutral.png){ loading=lazy }
+![Big Ears Neutral](images/preview/big-ears-neutral.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -78,7 +78,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Big Smile
 
-![Big Smile](/images/preview/big-smile.png){ loading=lazy }
+![Big Smile](images/preview/big-smile.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -92,7 +92,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Bottts
 
-![Bottts](/images/preview/bottts.png){ loading=lazy }
+![Bottts](images/preview/bottts.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -106,7 +106,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Croodles
 
-![Croodles](/images/preview/croodles.png){ loading=lazy }
+![Croodles](images/preview/croodles.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -120,7 +120,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Croodles Neutral
 
-![Croodles Neutral](/images/preview/croodles-neutral.png){ loading=lazy }
+![Croodles Neutral](images/preview/croodles-neutral.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -134,7 +134,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Gridy
 
-![Gridy](/images/preview/gridy.png){ loading=lazy }
+![Gridy](images/preview/gridy.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -148,7 +148,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Human
 
-![Human](/images/preview/human.png){ loading=lazy }
+![Human](images/preview/human.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -162,7 +162,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Identicon
 
-![Identicon](/images/preview/identicon.png){ loading=lazy }
+![Identicon](images/preview/identicon.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -176,7 +176,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Initials
 
-![Initials](/images/preview/initials.png){ loading=lazy }
+![Initials](images/preview/initials.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -190,7 +190,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Jdenticon
 
-![Jdenticon](/images/preview/jdenticon.png){ loading=lazy }
+![Jdenticon](images/preview/jdenticon.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -204,7 +204,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Male
 
-![Male](/images/preview/male.png){ loading=lazy }
+![Male](images/preview/male.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -218,7 +218,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Female
 
-![Female](/images/preview/female.png){ loading=lazy }
+![Female](images/preview/female.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -232,7 +232,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Micah
 
-![Micah](/images/preview/micah.png){ loading=lazy }
+![Micah](images/preview/micah.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -246,7 +246,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Miniavs
 
-![Miniavs](/images/preview/miniavs.png){ loading=lazy }
+![Miniavs](images/preview/miniavs.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -260,7 +260,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Open Peeps
 
-![Open Peeps](/images/preview/open-peeps.png){ loading=lazy }
+![Open Peeps](images/preview/open-peeps.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -274,7 +274,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Personas
 
-![Personas](/images/preview/personas.png){ loading=lazy }
+![Personas](images/preview/personas.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -288,7 +288,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Pixel Art
 
-![Pixel Art](/images/preview/pixel-art.png){ loading=lazy }
+![Pixel Art](images/preview/pixel-art.png){ loading=lazy }
 
 === "Example"
     ```php
@@ -302,7 +302,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Pixel Art Neutral
 
-![Pixel Art Neutral](/images/preview/pixel-art-neutral.png){ loading=lazy }
+![Pixel Art Neutral](images/preview/pixel-art-neutral.png){ loading=lazy }
 
 === "Example"
     ```php
