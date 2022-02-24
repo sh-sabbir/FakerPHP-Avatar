@@ -6,7 +6,7 @@ Currently FakePHP Avatar Supports all **22** styles of [DiceBear](https://avatar
 
 ## Adventurer
 
-![Adventurer](/images/preview/adventurer.png){ loading=lazy }
+![Adventurer](images/preview/adventurer.png){ loading=lazy }
 
 === "Example"
     ```php
