@@ -18,7 +18,7 @@ composer require sh-sabbir/faker-php-avatar
 
 ### Documentation
 
-Full documentation can be found over on [sh-sabbir.github/FakerPHP-Avatar](https://sh-sabbir.github.io/FakerPHP-Avatar).
+Full documentation can be found over on [sh-sabbir.github.io/FakerPHP-Avatar](https://sh-sabbir.github.io/FakerPHP-Avatar).
 
 ### Basic Usage
 
@@ -62,7 +62,7 @@ $url = $faker->avatarUrl('male',100,'my-custom-slug','#cfcfcf',100,1);
 
 ```
 
-Check [documentation](https://sh-sabbir.github/FakerPHP-Avatar) for more complex example.
+Check [documentation](https://sh-sabbir.github.io/FakerPHP-Avatar) for more complex example.
 
 ### Available Styles
 
