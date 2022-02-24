@@ -18,7 +18,7 @@ composer require sh-sabbir/faker-php-avatar
 
 ### Documentation
 
-Full documentation can be found over on [sh-sabbir.github/FakerPHP-Avatar](https://sh-sabbir.github/FakerPHP-Avatar).
+Full documentation can be found over on [sh-sabbir.github/FakerPHP-Avatar](https://sh-sabbir.github.io/FakerPHP-Avatar).
 
 ### Basic Usage
 

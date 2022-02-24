@@ -1,6 +1,7 @@
 {
     "name": "sh-sabbir/faker-php-avatar",
-    "description": "Faker Avatar Generator Based on DiceBear",
+    "description": "A provider for FakerPHP/Faker to generate Avatar Based on DiceBear",
+    "version": "1.0.0",
     "keywords": [
         "faker",
         "avatar",
@@ -13,7 +14,8 @@
     "authors": [
         {
             "name": "Sabbir Hasan",
-            "email": "sabbirshouvo@gmail.com"
+            "email": "sabbirshouvo@gmail.com",
+            "homepage": "https://iamsabbir.dev"
         }
     ],
     "scripts": {
